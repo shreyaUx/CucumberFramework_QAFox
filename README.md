@@ -1,2 +1,1 @@
-# CucumberFramework_QAFox
-Cucumber project with POM
+This is cucumber frAmaework with POM
